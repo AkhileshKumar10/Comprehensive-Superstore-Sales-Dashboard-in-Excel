@@ -29,4 +29,5 @@ Outcome
 Provided actionable insights into sales performance and trends, enhancing data analysis and visualization skills.
 
 # Dashboard:-
-super_store_sales png 
+![image](https://github.com/user-attachments/assets/e615a8b7-c8ca-43ce-aa1a-93489df746f8)
+
