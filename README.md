@@ -2,15 +2,15 @@
 Developed an interactive and insightful dashboard using Excel to analyze superstore sales data, providing comprehensive insights into sales performance and trends.
 Developed an interactive and insightful dashboard using Excel to analyze superstore sales data, providing comprehensive insights into sales performance and trends.
 
- # Key Features
+# Key Features
 # KPIs:
 
-Total Sales
-Total Profit
-Total Quantity
-Average Sales
-Average Profit
-Number of Orders
+Total Sales,
+Total Profit,
+Total Quantity,
+Average Sales,
+Average Profit,
+Number of Orders,
 # Visualizations:
 
 Donut Charts for Sales and Profit by Segment
